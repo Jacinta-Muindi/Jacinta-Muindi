@@ -1,11 +1,11 @@
 👋 Hi, I’m @Jacinta-Muindi
-
 💞️ My interest is in statistics and data analysis. I am passionate about uncovering insights from data.
-🌱 I’m currently exploring various aspects of the data science world.
 
-🌱 I’m currently learning:
-- 🤖 Machine learning algorithms for predictive modeling.
-  
+🌱 I’m currently: 
+- Exploring various aspects of the data science world.
+- Learning Machine learning algorithms for predictive modeling.
+- Exploring statistical modeling of time series data using nonlinear models.
+
 💞️ I’m looking to collaborate on:
 - 🤖 Machine learning projects to develop predictive models.
 - 🌐 Data-driven web applications and interactive visualizations.
