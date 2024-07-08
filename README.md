@@ -1,5 +1,5 @@
 👋 Hi, I’m @Jacinta-Muindi
-💞️ My interest is in statistics and data analysis. I am passionate about uncovering insights from data.
+My interest is in statistics and data analysis. I am passionate about uncovering insights from data.
 
 🌱 I’m currently: 
 - 📚 Exploring various aspects of the data science world.
